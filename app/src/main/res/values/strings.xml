@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UNUM Sample App</string>
+    <string name="likes_label">%1$d likes</string>
+    <string name="no_description_label">This photo has no description yet</string>
+</resources>
